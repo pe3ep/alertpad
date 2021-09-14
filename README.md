@@ -1,2 +1,12 @@
 # alertpad
-App for discord moderation
+##Description
+
+App for discord moderation.
+
+##Installation
+Will be written soon.
+
+
+
+##Shortcuts
+
