@@ -9,5 +9,13 @@ Will be written soon.
 
 
 ## Shortcuts
+-
+-
+-
+-
+
+
+
+
 
 copyright 2021 Pe3ep
