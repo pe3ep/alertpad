@@ -1,12 +1,13 @@
 # alertpad
-##Description
+## Description
 
 App for discord moderation.
 
-##Installation
+## Installation
 Will be written soon.
 
 
 
-##Shortcuts
+## Shortcuts
 
+copyright 2021 Pe3ep
