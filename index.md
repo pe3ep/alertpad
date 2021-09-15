@@ -1,6 +1,6 @@
 ## Установка
 
-- Скачайте архив
+- [Скачайте](https://github.com/pe3ep/alertpad/releases) архив
 - Распакуйте архив.
 - Откройте alertpad.jar
 
