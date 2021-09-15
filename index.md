@@ -4,4 +4,4 @@
 - Откройте alertpad.jar
 
 ## Использование
--
+![tutorial](/tutorial.png)
